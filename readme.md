@@ -1,5 +1,12 @@
 # gmanka backupper
 
+[![python](icons/python.svg)](https://www.python.org)
+[![telegram](icons/telegram.svg)](https://t.me/gmanka)
+[![discord](icons/discord.svg)](https://discordapp.com/users/396578935540023296)
+[![github](icons/github.svg)](https://github.com/gmankab/betterdata)
+
+<img src="icons/backupper.svg" width="200" height="200">
+
 ```text
               __
     ____ _   / /_
